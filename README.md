@@ -7,3 +7,8 @@ Profile_card
 
 ![image](https://github.com/user-attachments/assets/a0139413-57a5-4799-a2e8-4387ffc67ecf)
 
+Image Shadow
+
+![image](https://github.com/user-attachments/assets/04b0ced6-fddb-4e07-8271-be46ffeff2ec)
+
+
