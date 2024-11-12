@@ -16,7 +16,6 @@ const App = () => {
   return (
     <ScrollView>
       <Profile_card profile={profile} />
-      <Profile_card profile={profile1} />
 
     </ScrollView>
   );
